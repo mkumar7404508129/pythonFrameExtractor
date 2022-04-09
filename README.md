@@ -11,7 +11,10 @@ Now start the Program using command
 ```Python
 python3 start.py
 ```
+### Change Path adderess according to OS
+I use ubantu operating system
 ### I hope code will run fine
+
 Any query you can contact on 
 <mkumar7404508129@gmail.com> 
  
